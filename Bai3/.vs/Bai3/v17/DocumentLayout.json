@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Learn_ASP_Net_API\\Bai3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9540456-C5F8-46E8-A817-EBB589E56449}|Bai3\\Bai3.csproj|d:\\c#\\learn_asp_net_api\\bai3\\bai3\\services\\hanghoaserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9540456-C5F8-46E8-A817-EBB589E56449}|Bai3\\Bai3.csproj|solutionrelative:bai3\\services\\hanghoaserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9540456-C5F8-46E8-A817-EBB589E56449}|Bai3\\Bai3.csproj|d:\\c#\\learn_asp_net_api\\bai3\\bai3\\repository\\hanghoarepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9540456-C5F8-46E8-A817-EBB589E56449}|Bai3\\Bai3.csproj|solutionrelative:bai3\\repository\\hanghoarepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9540456-C5F8-46E8-A817-EBB589E56449}|Bai3\\Bai3.csproj|d:\\c#\\learn_asp_net_api\\bai3\\bai3\\repository\\ihanghoarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9540456-C5F8-46E8-A817-EBB589E56449}|Bai3\\Bai3.csproj|solutionrelative:bai3\\repository\\ihanghoarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9540456-C5F8-46E8-A817-EBB589E56449}|Bai3\\Bai3.csproj|d:\\c#\\learn_asp_net_api\\bai3\\bai3\\repository\\loairepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9540456-C5F8-46E8-A817-EBB589E56449}|Bai3\\Bai3.csproj|solutionrelative:bai3\\repository\\loairepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9540456-C5F8-46E8-A817-EBB589E56449}|Bai3\\Bai3.csproj|d:\\c#\\learn_asp_net_api\\bai3\\bai3\\services\\ihanghoaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9540456-C5F8-46E8-A817-EBB589E56449}|Bai3\\Bai3.csproj|solutionrelative:bai3\\services\\ihanghoaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9540456-C5F8-46E8-A817-EBB589E56449}|Bai3\\Bai3.csproj|d:\\c#\\learn_asp_net_api\\bai3\\bai3\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9540456-C5F8-46E8-A817-EBB589E56449}|Bai3\\Bai3.csproj|solutionrelative:bai3\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9540456-C5F8-46E8-A817-EBB589E56449}|Bai3\\Bai3.csproj|d:\\c#\\learn_asp_net_api\\bai3\\bai3\\services\\loaiservicesimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9540456-C5F8-46E8-A817-EBB589E56449}|Bai3\\Bai3.csproj|solutionrelative:bai3\\services\\loaiservicesimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9540456-C5F8-46E8-A817-EBB589E56449}|Bai3\\Bai3.csproj|d:\\c#\\learn_asp_net_api\\bai3\\bai3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9540456-C5F8-46E8-A817-EBB589E56449}|Bai3\\Bai3.csproj|solutionrelative:bai3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9540456-C5F8-46E8-A817-EBB589E56449}|Bai3\\Bai3.csproj|d:\\c#\\learn_asp_net_api\\bai3\\bai3\\models\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9540456-C5F8-46E8-A817-EBB589E56449}|Bai3\\Bai3.csproj|solutionrelative:bai3\\models\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9540456-C5F8-46E8-A817-EBB589E56449}|Bai3\\Bai3.csproj|d:\\c#\\learn_asp_net_api\\bai3\\bai3\\repository\\iloairepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9540456-C5F8-46E8-A817-EBB589E56449}|Bai3\\Bai3.csproj|solutionrelative:bai3\\repository\\iloairepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9540456-C5F8-46E8-A817-EBB589E56449}|Bai3\\Bai3.csproj|d:\\c#\\learn_asp_net_api\\bai3\\bai3\\models\\loai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9540456-C5F8-46E8-A817-EBB589E56449}|Bai3\\Bai3.csproj|solutionrelative:bai3\\models\\loai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9540456-C5F8-46E8-A817-EBB589E56449}|Bai3\\Bai3.csproj|d:\\c#\\learn_asp_net_api\\bai3\\bai3\\controllers\\loaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9540456-C5F8-46E8-A817-EBB589E56449}|Bai3\\Bai3.csproj|solutionrelative:bai3\\controllers\\loaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9540456-C5F8-46E8-A817-EBB589E56449}|Bai3\\Bai3.csproj|d:\\c#\\learn_asp_net_api\\bai3\\bai3\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9540456-C5F8-46E8-A817-EBB589E56449}|Bai3\\Bai3.csproj|solutionrelative:bai3\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoaiRepositoryImpl.cs",
+              "DocumentMoniker": "D:\\C#\\Learn_ASP_Net_API\\Bai3\\Bai3\\Repository\\LoaiRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "Bai3\\Repository\\LoaiRepositoryImpl.cs",
+              "ToolTip": "D:\\C#\\Learn_ASP_Net_API\\Bai3\\Bai3\\Repository\\LoaiRepositoryImpl.cs",
+              "RelativeToolTip": "Bai3\\Repository\\LoaiRepositoryImpl.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T16:23:44.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HangHoaController.cs",
+              "DocumentMoniker": "D:\\C#\\Learn_ASP_Net_API\\Bai3\\Bai3\\Controllers\\HangHoaController.cs",
+              "RelativeDocumentMoniker": "Bai3\\Controllers\\HangHoaController.cs",
+              "ToolTip": "D:\\C#\\Learn_ASP_Net_API\\Bai3\\Bai3\\Controllers\\HangHoaController.cs",
+              "RelativeToolTip": "Bai3\\Controllers\\HangHoaController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwBcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T16:09:11.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HangHoaServiceImpl.cs",
+              "DocumentMoniker": "D:\\C#\\Learn_ASP_Net_API\\Bai3\\Bai3\\Services\\HangHoaServiceImpl.cs",
+              "RelativeDocumentMoniker": "Bai3\\Services\\HangHoaServiceImpl.cs",
+              "ToolTip": "D:\\C#\\Learn_ASP_Net_API\\Bai3\\Bai3\\Services\\HangHoaServiceImpl.cs",
+              "RelativeToolTip": "Bai3\\Services\\HangHoaServiceImpl.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwBMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T16:01:36.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IHangHoaService.cs",
+              "DocumentMoniker": "D:\\C#\\Learn_ASP_Net_API\\Bai3\\Bai3\\Services\\IHangHoaService.cs",
+              "RelativeDocumentMoniker": "Bai3\\Services\\IHangHoaService.cs",
+              "ToolTip": "D:\\C#\\Learn_ASP_Net_API\\Bai3\\Bai3\\Services\\IHangHoaService.cs",
+              "RelativeToolTip": "Bai3\\Services\\IHangHoaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T16:01:09.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IHangHoaRepository.cs",
+              "DocumentMoniker": "D:\\C#\\Learn_ASP_Net_API\\Bai3\\Bai3\\Repository\\IHangHoaRepository.cs",
+              "RelativeDocumentMoniker": "Bai3\\Repository\\IHangHoaRepository.cs",
+              "ToolTip": "D:\\C#\\Learn_ASP_Net_API\\Bai3\\Bai3\\Repository\\IHangHoaRepository.cs",
+              "RelativeToolTip": "Bai3\\Repository\\IHangHoaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T15:51:40.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HangHoaRepositoryImpl.cs",
+              "DocumentMoniker": "D:\\C#\\Learn_ASP_Net_API\\Bai3\\Bai3\\Repository\\HangHoaRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "Bai3\\Repository\\HangHoaRepositoryImpl.cs",
+              "ToolTip": "D:\\C#\\Learn_ASP_Net_API\\Bai3\\Bai3\\Repository\\HangHoaRepositoryImpl.cs",
+              "RelativeToolTip": "Bai3\\Repository\\HangHoaRepositoryImpl.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAmwCkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T15:45:32.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoaiServicesImpl.cs",
+              "DocumentMoniker": "D:\\C#\\Learn_ASP_Net_API\\Bai3\\Bai3\\Services\\LoaiServicesImpl.cs",
+              "RelativeDocumentMoniker": "Bai3\\Services\\LoaiServicesImpl.cs",
+              "ToolTip": "D:\\C#\\Learn_ASP_Net_API\\Bai3\\Bai3\\Services\\LoaiServicesImpl.cs",
+              "RelativeToolTip": "Bai3\\Services\\LoaiServicesImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T16:04:33.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Loai.cs",
+              "DocumentMoniker": "D:\\C#\\Learn_ASP_Net_API\\Bai3\\Bai3\\Models\\Loai.cs",
+              "RelativeDocumentMoniker": "Bai3\\Models\\Loai.cs",
+              "ToolTip": "D:\\C#\\Learn_ASP_Net_API\\Bai3\\Bai3\\Models\\Loai.cs",
+              "RelativeToolTip": "Bai3\\Models\\Loai.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T14:01:48.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HangHoa.cs",
+              "DocumentMoniker": "D:\\C#\\Learn_ASP_Net_API\\Bai3\\Bai3\\Models\\HangHoa.cs",
+              "RelativeDocumentMoniker": "Bai3\\Models\\HangHoa.cs",
+              "ToolTip": "D:\\C#\\Learn_ASP_Net_API\\Bai3\\Bai3\\Models\\HangHoa.cs",
+              "RelativeToolTip": "Bai3\\Models\\HangHoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T14:02:07.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Learn_ASP_Net_API\\Bai3\\Bai3\\Program.cs",
+              "RelativeDocumentMoniker": "Bai3\\Program.cs",
+              "ToolTip": "D:\\C#\\Learn_ASP_Net_API\\Bai3\\Bai3\\Program.cs",
+              "RelativeToolTip": "Bai3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T13:58:18.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ILoaiRepository.cs",
+              "DocumentMoniker": "D:\\C#\\Learn_ASP_Net_API\\Bai3\\Bai3\\Repository\\ILoaiRepository.cs",
+              "RelativeDocumentMoniker": "Bai3\\Repository\\ILoaiRepository.cs",
+              "ToolTip": "D:\\C#\\Learn_ASP_Net_API\\Bai3\\Bai3\\Repository\\ILoaiRepository.cs",
+              "RelativeToolTip": "Bai3\\Repository\\ILoaiRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAArwAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T14:05:00.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoaiController.cs",
+              "DocumentMoniker": "D:\\C#\\Learn_ASP_Net_API\\Bai3\\Bai3\\Controllers\\LoaiController.cs",
+              "RelativeDocumentMoniker": "Bai3\\Controllers\\LoaiController.cs",
+              "ToolTip": "D:\\C#\\Learn_ASP_Net_API\\Bai3\\Bai3\\Controllers\\LoaiController.cs",
+              "RelativeToolTip": "Bai3\\Controllers\\LoaiController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAASwE4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T14:33:52.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MyDBContext.cs",
+              "DocumentMoniker": "D:\\C#\\Learn_ASP_Net_API\\Bai3\\Bai3\\Data\\MyDBContext.cs",
+              "RelativeDocumentMoniker": "Bai3\\Data\\MyDBContext.cs",
+              "ToolTip": "D:\\C#\\Learn_ASP_Net_API\\Bai3\\Bai3\\Data\\MyDBContext.cs",
+              "RelativeToolTip": "Bai3\\Data\\MyDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T14:03:15.788Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
